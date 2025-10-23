@@ -1,4 +1,4 @@
 template-file-path: simple-bucket
 
-parameters: []
-tags: []
+parameters: {}
+tags: {}
