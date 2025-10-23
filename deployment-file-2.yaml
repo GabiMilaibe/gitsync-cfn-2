@@ -1,1 +1,9 @@
-
+version: 1.0
+template:
+  path: simple-bucket.yaml
+stacks:
+  - name: my-simple-bucket-stack
+    region: us-east-1
+    parameters: {}
+    tags:
+      Environment: dev
