@@ -1,4 +1,3 @@
-template-file-path: simple-bucket
-
-parameters: []
-tags: []
+template-file-path: simple-bucket.yaml
+parameters: {}
+tags: {}
